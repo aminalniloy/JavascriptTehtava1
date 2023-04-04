@@ -1,0 +1,20 @@
+body {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#head, #mid, #bottom {
+  border: 3px solid blue;
+  padding: 20px;
+  text-align: center;
+  max-width: 800px; 
+  margin: 0 auto; 
+}
+
+#mid input {
+  margin: 0 20px;
+  width: 200px; 
+}
+
+button {
+  margin-top: 20px;
+}
